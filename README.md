@@ -8,10 +8,10 @@ Designed a website that displays the public Github repositories belonging to any
 
 ## Screenshots
 ### Input Page
-![Screenshot (213)](https://github.com/Brothin/Fyle/assets/78947331/24c57b05-f692-4100-80d3-ffd66539371c)
+![Screenshot (213)](https://github.com/Brothin/Fyle/assets/78947331/166ccb68-e434-48cf-ae73-154429585d08)
 
 ### Output Page
-![Screenshot (214)](https://github.com/Brothin/Fyle/assets/78947331/add785ca-287e-4f49-b167-9850e003efdc)
+![Screenshot (214)](https://github.com/Brothin/Fyle/assets/78947331/97261587-e936-4af8-b16c-28b060e65401)
 
 ## Prerequisites
 jQuery is required for this repo to work properly. You can import the script from CDN into your html page like below:
